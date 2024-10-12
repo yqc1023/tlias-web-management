@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e10f2d0b-5dfa-49e4-bb4e-e94030e27eed" name="更改" comment="JavaWeb学习代码&#10;员工管理系统环境搭建&#10;xml文件定义oss阿里云仓库,Mapper层的MyBaties的sql代码等&#10;测试JWT令牌生成和解析代码" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+        <option name="userSettingsFile" value="E:\develop\apache-maven-3.9.8\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="17" />
+  </component>
+  <component name="PerforceDirect.Settings">
+    <option name="CHARSET" value="无" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2lyUgs70ObqkZ9m3QKsRRPeML8H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.TliasWebManagementApplicationTests.executor": "Debug",
+    "JUnit.TliasWebManagementApplicationTests.selectDeptTest.executor": "Run",
+    "JUnit.TliasWebManagementApplicationTests.testGenJWT.executor": "Run",
+    "JUnit.TliasWebManagementApplicationTests.testParseJwt.executor": "Run",
+    "JavaScript 调试.upload.html.executor": "Run",
+    "Maven.tlias-web-management [clean].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.TliasWebManagementApplication.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/java/idea_workspace/itheima_web_project/tlias-web-management",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.Demo.executor": "Run"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql_aurora_aws"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\java\idea_workspace\itheima_web_project\tlias-web-management\src\main\java\com\itheima\pojo" />
+      <recent name="E:\java\idea_workspace\itheima_web_project\tlias-web-management\src\main\resources\static" />
+      <recent name="E:\java\idea_workspace\itheima_web_project\tlias-web-management\src\main\resources\com\itheima\mapper" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\java\idea_workspace\itheima_web_project\tlias-web-management\src\main\java\com\itheima\pojo" />
+      <recent name="E:\java\idea_workspace\itheima_web_project\tlias-web-management\src\main\java\com\itheima\service" />
+      <recent name="E:\java\idea_workspace\itheima_web_project\tlias-web-management\src\main\java\com\itheima\mapper" />
+      <recent name="E:\java\idea_workspace\itheima_web_project\tlias-web-management\src\main\java\com\itheima\controller" />
+      <recent name="E:\java\idea_workspace\itheima_web_project\tlias-web-management\src\main\java\com\itheima\utils" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.itheima.controller" />
+      <recent name="com.itheima.service.impl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.TliasWebManagementApplication">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.Demo" />
+      <module name="tlias-web-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TliasWebManagementApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tlias-web-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.TliasWebManagementApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TliasWebManagementApplicationTests.testGenJWT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tlias-web-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.TliasWebManagementApplicationTests" />
+      <option name="METHOD_NAME" value="testGenJWT" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TliasWebManagementApplicationTests.testParseJwt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tlias-web-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.TliasWebManagementApplicationTests" />
+      <option name="METHOD_NAME" value="testParseJwt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="upload.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tlias-web-management/static/upload.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="TliasWebManagementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="tlias-web-management" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.TliasWebManagementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TliasWebManagementApplicationTests.testParseJwt" />
+        <item itemvalue="JUnit.TliasWebManagementApplicationTests.testGenJWT" />
+        <item itemvalue="JUnit.TliasWebManagementApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="e10f2d0b-5dfa-49e4-bb4e-e94030e27eed" name="更改" comment="" />
+      <created>1726151924106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726151924106</updated>
+      <workItem from="1726151925127" duration="2621000" />
+      <workItem from="1726197929345" duration="7126000" />
+      <workItem from="1726215939161" duration="3909000" />
+      <workItem from="1726219984422" duration="275000" />
+      <workItem from="1726226974109" duration="3242000" />
+      <workItem from="1726236141738" duration="5293000" />
+      <workItem from="1726312304483" duration="5843000" />
+      <workItem from="1726667512984" duration="8175000" />
+      <workItem from="1726734915805" duration="9965000" />
+      <workItem from="1726810058430" duration="757000" />
+      <workItem from="1726819308998" duration="5205000" />
+      <workItem from="1726840045286" duration="4033000" />
+      <workItem from="1726845639155" duration="2776000" />
+      <workItem from="1726905915479" duration="2331000" />
+      <workItem from="1726908775327" duration="7064000" />
+      <workItem from="1726922147355" duration="8795000" />
+      <workItem from="1726982598791" duration="11250000" />
+      <workItem from="1727079209242" duration="11657000" />
+      <workItem from="1727137311332" duration="16381000" />
+      <workItem from="1727239967585" duration="14373000" />
+      <workItem from="1727328134251" duration="941000" />
+      <workItem from="1727329091670" duration="881000" />
+      <workItem from="1727329987754" duration="2703000" />
+      <workItem from="1727333955192" duration="16000" />
+      <workItem from="1727355448741" duration="527000" />
+      <workItem from="1727439797723" duration="146000" />
+      <workItem from="1727439959599" duration="1217000" />
+      <workItem from="1727441848025" duration="5218000" />
+      <workItem from="1727518092031" duration="1542000" />
+      <workItem from="1727764128889" duration="2439000" />
+      <workItem from="1727767699715" duration="1618000" />
+      <workItem from="1727856506433" duration="2629000" />
+      <workItem from="1728025533424" duration="57000" />
+      <workItem from="1728196334406" duration="228000" />
+      <workItem from="1728313565529" duration="834000" />
+      <workItem from="1728378275939" duration="3524000" />
+      <workItem from="1728400289114" duration="616000" />
+      <workItem from="1728401008726" duration="610000" />
+      <workItem from="1728469997739" duration="1810000" />
+      <workItem from="1728474440538" duration="643000" />
+      <workItem from="1728475206089" duration="29000" />
+      <workItem from="1728475856371" duration="241000" />
+      <workItem from="1728529314132" duration="5313000" />
+      <workItem from="1728575641485" duration="206000" />
+      <workItem from="1728575856089" duration="617000" />
+      <workItem from="1728712698703" duration="3143000" />
+      <workItem from="1728725498910" duration="2176000" />
+    </task>
+    <task id="LOCAL-00001" summary="JavaWeb学习代码&#10;员工管理系统环境搭建&#10;xml文件定义oss阿里云仓库,Mapper层的MyBaties的sql代码等&#10;测试JWT令牌生成和解析代码">
+      <option name="closed" value="true" />
+      <created>1728749179865</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728749179865</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="JavaWeb学习代码&#10;员工管理系统环境搭建&#10;xml文件定义oss阿里云仓库,Mapper层的MyBaties的sql代码等&#10;测试JWT令牌生成和解析代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaWeb学习代码&#10;员工管理系统环境搭建&#10;xml文件定义oss阿里云仓库,Mapper层的MyBaties的sql代码等&#10;测试JWT令牌生成和解析代码" />
+  </component>
+</project>
