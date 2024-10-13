@@ -7,7 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e10f2d0b-5dfa-49e4-bb4e-e94030e27eed" name="更改" comment="JavaWeb学习代码&#10;员工管理系统环境搭建&#10;xml文件定义oss阿里云仓库,Mapper层的MyBaties的sql代码等&#10;测试JWT令牌生成和解析代码" />
+    <list default="true" id="e10f2d0b-5dfa-49e4-bb4e-e94030e27eed" name="更改" comment="Merge remote-tracking branch 'origin/master'" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,6 +87,10 @@
     "应用程序.Demo.executor": "Run"
   },
   "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ],
     "DatabaseDriversLRU": [
       "mysql_aurora_aws"
     ]
@@ -251,7 +255,7 @@
       <workItem from="1728575641485" duration="206000" />
       <workItem from="1728575856089" duration="617000" />
       <workItem from="1728712698703" duration="3143000" />
-      <workItem from="1728725498910" duration="2176000" />
+      <workItem from="1728725498910" duration="2849000" />
     </task>
     <task id="LOCAL-00001" summary="JavaWeb学习代码&#10;员工管理系统环境搭建&#10;xml文件定义oss阿里云仓库,Mapper层的MyBaties的sql代码等&#10;测试JWT令牌生成和解析代码">
       <option name="closed" value="true" />
@@ -261,7 +265,47 @@
       <option name="project" value="LOCAL" />
       <updated>1728749179865</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="JavaWeb学习代码">
+      <option name="closed" value="true" />
+      <created>1728749232467</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728749232467</updated>
+    </task>
+    <task id="LOCAL-00003" summary="JavaWeb学习代码&#10;AOP相关代码&#10;对指定方法获取其相关数据并添加到项目日志中">
+      <option name="closed" value="true" />
+      <created>1728749514764</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728749514764</updated>
+    </task>
+    <task id="LOCAL-00004" summary="JavaWeb学习代码&#10;interceptor拦截器和Filter过滤器代码&#10;拦截器的配置类代码">
+      <option name="closed" value="true" />
+      <created>1728749760607</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728749760607</updated>
+    </task>
+    <task id="LOCAL-00005" summary="JavaWeb学习代码&#10;interceptor拦截器和Filter过滤器代码&#10;拦截器的配置类代码">
+      <option name="closed" value="true" />
+      <created>1728749779838</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728749779838</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1728749912575</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728749912575</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,6 +313,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="JavaWeb学习代码&#10;员工管理系统环境搭建&#10;xml文件定义oss阿里云仓库,Mapper层的MyBaties的sql代码等&#10;测试JWT令牌生成和解析代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaWeb学习代码&#10;员工管理系统环境搭建&#10;xml文件定义oss阿里云仓库,Mapper层的MyBaties的sql代码等&#10;测试JWT令牌生成和解析代码" />
+    <MESSAGE value="JavaWeb学习代码" />
+    <MESSAGE value="JavaWeb学习代码&#10;AOP相关代码&#10;对指定方法获取其相关数据并添加到项目日志中" />
+    <MESSAGE value="JavaWeb学习代码&#10;interceptor拦截器和Filter过滤器代码&#10;拦截器的配置类代码" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
 </project>

@@ -14,7 +14,6 @@ import org.springframework.util.StringUtils;
 import org.springframework.web.servlet.HandlerInterceptor;
 import org.springframework.web.servlet.ModelAndView;
 
-
 @Component
 public class LoginCheckIntercepor implements HandlerInterceptor {
     private static final Logger log = LoggerFactory.getLogger(LoginCheckIntercepor.class);
@@ -22,12 +21,9 @@ public class LoginCheckIntercepor implements HandlerInterceptor {
     @Override//目标资源方法运行前运行,返回值如果为true:放行,返回false,不放行
     public boolean preHandle(HttpServletRequest request, HttpServletResponse response, Object handler) throws Exception {
         System.out.println("preHandle 运行了");
-
         //获取请求url
         String reqUrl = request.getRequestURL().toString();
         log.info("获取请求路径:{}",reqUrl);
-
-
 
         //判断请求url中是否包含login,如果包含,说明是登录操作,放行
         if (reqUrl.contains("/login")) {
